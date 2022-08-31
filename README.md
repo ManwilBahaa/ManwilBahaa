@@ -4,7 +4,7 @@ I am Manwil Bahaa Zaki. I am a :
 <ol>
   <li>  ⌨️ Self-tought Programmer ⌨️  </li>
   <li>  🕸 Front-End web developer 🕸 </li>
-  <li>  Certified Professional & Advanced Web developer form <b>🇪🇬 Egyptian 🇪🇬 MCIT<b></li>
+  <li>  Certified Professional & Advanced Web developer form <b>🇪🇬 Egyptian 🇪🇬 MCIT</b></li>
   <li>⚙ Mechanical Engineer ⚙</li>
 </ol>
 
