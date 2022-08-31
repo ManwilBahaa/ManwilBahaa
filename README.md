@@ -1,6 +1,6 @@
 ## Intro
-Hi,
-I am Manwil Bahaa Zaki. I am a :
+Hi,<br/>
+I am Manwil Bahaa Zaki.<br/> I am a :<br/>
 <ol>
   <li>  ⌨️ Self-tought Programmer ⌨️  </li>
   <li>  🕸 Front-End web developer 🕸 </li>
