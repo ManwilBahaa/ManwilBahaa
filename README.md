@@ -9,7 +9,7 @@ I am Manwil Bahaa Zaki. I am a :<br/>
 </ol>
 
 ## CV | Resume
-This is a copy of my latest CV : [CV.pdf](https://github.com/ManwilBahaa/ManwilBahaa/files/9460057/CV.pdf)
+This is a copy of my latest CV : [CV.pdf](https://drive.google.com/file/d/1zuGwXJTWneBGmtyetTx1j_LAIvY6HqPh/view?usp=sharing)
 
 ## Certifications
 Refer [LinkedIn](https://www.linkedin.com/in/manwil-bahaa-zaki-kouzman-519701202) to see Certifications
