@@ -12,7 +12,7 @@ I am Manwil Bahaa Zaki. I am a :<br/>
 This is a copy of my latest CV : [CV.pdf](https://drive.google.com/file/d/1zuGwXJTWneBGmtyetTx1j_LAIvY6HqPh/view?usp=sharing)
 
 ## Certifications
-Refer [LinkedIn](https://www.linkedin.com/in/manwil-bahaa-zaki-kouzman-519701202) to see Certifications
+Refer [LinkedIn](www.linkedin.com/in/manwil) to see Certifications
 
 ## Contacts
 Gmail : mbzkrm@gmail.com <br/>
