@@ -1,11 +1,10 @@
 ## Intro
 Hi,<br/>
-I am Manwil Bahaa Zaki. I am a :<br/>
+I am Manwil Bahaa Zaki. I am an EGYPTIAN :<br/>
 <ol>
   <li>  ⌨️ Self-tought Programmer ⌨️  </li>
-  <li>  🕸 Front-End web developer 🕸 </li>
-  <li>  Certified Professional & Advanced Web developer form <b>🇪🇬 Egyptian 🇪🇬 MCIT</b></li>
-  <li>⚙ Mechanical Engineer ⚙</li>
+  <li>  🕸 Full-Stack web developer 🕸 </li>
+  <li>  ⚙ Mechanical Engineer ⚙</li>
 </ol>
 
 ## CV | Resume
