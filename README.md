@@ -8,7 +8,7 @@ I am Manwil Bahaa Zaki. I am an EGYPTIAN :<br/>
 </ol>
 
 ## CV | Resume
-This is a copy of my latest CV : [CV.pdf](https://drive.google.com/file/d/1899hODJc3kmyHloXmq3WJIMtZznWOl_b/view?usp=drivesdk)
+This is a copy of my latest CV : [CV.pdf](https://drive.google.com/file/d/1GSxW4HBnmvoflMoBBH_5xNiYKcK_dZ49/view?usp=sharing).
 
 ## Certifications
 Refer [LinkedIn](https://www.linkedin.com/in/manwil-bahaa-zaki-kouzman-519701202) to see Certifications
