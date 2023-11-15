@@ -4,7 +4,7 @@ I am Manwil Bahaa Zaki. I am an EGYPTIAN :<br/>
 <ol>
   <li>  ⌨️ Self-tought Programmer ⌨️  </li>
   <li>  🕸 Full-Stack web developer 🕸 </li>
-  <li>  ⚙ Mechanical Engineer ⚙</li>
+  <li>  ⚙ Mechanical Engineer (Mechatronics) ⚙</li>
 </ol>
 
 ## CV | Resume
