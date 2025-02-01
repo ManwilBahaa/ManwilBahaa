@@ -10,8 +10,11 @@ I am Manwil Bahaa Zaki. I am an EGYPTIAN :<br/>
 ## CV | Resume
 This is a copy of my latest CV : [CV.pdf](https://drive.google.com/file/d/1GSxW4HBnmvoflMoBBH_5xNiYKcK_dZ49/view?usp=sharing).
 
+## Recomendation Letter
+[hatem](https://github.com/ManwilBahaa/ManwilBahaa/blob/1b7bb2b573c72d4a00168c4019cc74bbbc3e65bf/Udacity%20-%20Advanced%20front%20end%20web%20development.pdf)
+
 ## Certifications
-Refer [LinkedIn](https://www.linkedin.com/in/manwil) to see Certifications
+[Udacity Advanced Web Development](https://github.com/ManwilBahaa/ManwilBahaa/blob/1b7bb2b573c72d4a00168c4019cc74bbbc3e65bf/Udacity%20-%20Advanced%20front%20end%20web%20development.pdf)
 
 ## Contacts
 Gmail : mbzkrm@gmail.com <br/>
