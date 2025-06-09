@@ -2,6 +2,13 @@
 <h3 align="center">Software Developer | Mechatronics Engineer | API Enthusiast</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Coding%20Since-2018-blue?style=for-the-badge&logo=codeforces" />
+  <img src="https://img.shields.io/badge/Stack-Full--Stack-green?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Cloud-Hetzner%20%7C%20AWS%20%7C%20GCP-orange?style=for-the-badge&logo=cloud" />
+  <img src="https://img.shields.io/badge/Robotics-Engineer-critical?style=for-the-badge&logo=raspberrypi" />
+</p>
+
+<p align="center">
   <strong>Self-taught programmer | Full-stack web developer | Embedded systems enthusiast</strong><br/>
   Bridging the world of Mechatronics with Software, AI, and Cloud.
 </p>
@@ -17,7 +24,6 @@ My goal is to create smart, robust, and human-friendly systems at the intersecti
 ---
 
 ## 🧠 Skills & Technologies
-
 **Frontend**
 - React, Next.js, NextAuth, HTML5, CSS3, JavaScript (ES6+), TypeScript, Redux
 
